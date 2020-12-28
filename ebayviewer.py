@@ -4,9 +4,9 @@ import time
 from fake_headers import Headers
 
 def start():
-    print("eBay View Bot 1.00")
+    print("Saturn eBay View Bot")
     print("--------------------")
-    print("eBay view bot has 2 modes")
+    print("Saturn eBay view bot has 2 modes")
     print("Mode 1- Doesnt use proxies, if you send to many requests your ip will get banned ")
     print("Mode 2- Uses proxies, free proxies from https://www.proxyscrape.com work fine! ")
 
