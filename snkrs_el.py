@@ -13,4 +13,3 @@ def start():
     early_link = f"{product_link}?productId={product_id}&size={product_size}"
     print(early_link)
 
-start()
